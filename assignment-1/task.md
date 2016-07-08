@@ -6,6 +6,7 @@ Create a new branch called 'feature/solution-assignment-1' `git branch feature/s
   * Little helper [my first bash script](http://www.linuxcommand.org/wss0010.php) & [running your script](http://askubuntu.com/questions/229589/how-to-make-a-file-e-g-a-sh-script-executable-so-it-can-be-ran-from-termina)
 * Define an alias in your shell that always prints out your name or an insult - up to you
 * Extend your bash script that return everything you send I uppercase letters [there is an api for that](http://shoutcloud.io/)
+
 **Challenge**
 * Create another script that gets you employee oauth2 access token (hint the greyhound repo already does this)
 
